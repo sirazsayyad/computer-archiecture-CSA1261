@@ -1,0 +1,9 @@
+MVI A,03
+RRC
+RRC
+RRC
+RRC
+STA 2000
+HLT
+
+
